@@ -1,5 +1,9 @@
 .App {
-    width: 1200px;
+    border: 10px solid black;
+    background-color: pink;
+    align-items: center;
+    display: flex;
+    justify-content: center;
 }
 
 
