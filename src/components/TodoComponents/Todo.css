@@ -1,0 +1,35 @@
+.App {
+    border: 10px solid black;
+    background-color: Grey;
+    max-width: 1200px;
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+.header {
+    text-align: center;
+    color: white;
+}
+
+.item {
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 10px;
+    color: white;
+}
+
+button {
+    background-color: #e64944;
+    border: 1px solid #e64944;
+    color: white;
+    font-size: 16px;
+    padding: 6px 14px;
+  }
+  
+
+.completed {
+    text-decoration: line-through;
+}
